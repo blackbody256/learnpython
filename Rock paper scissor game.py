@@ -6,6 +6,9 @@ comp_choice = random.choice(item_list)
 print("Computer chooses "+comp_choice)
 print("You chose "+user_choice)
 
+
+#i am going to use nested if statements instead of using functional operator like 'and'
+
 if user_choice == comp_choice:
     print("Match Tie")
 
