@@ -6,7 +6,7 @@ print("Hello "+full_name)
 print(type(full_name))
 #a integer data type is use to store integers
 age = 19
-#age =age+1
+#age++ or age=age+1
 age+=1
 print("Your age is "+ str(age))
 print(type(age))
