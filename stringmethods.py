@@ -9,4 +9,4 @@ print(name.isdigit)#it checks if the string is only made figures
 print(name.isalpha)#it checks if the string is made up of only charaters.it doesnt consider a space as an alpha
 print(name.count("a"))#it counts the number of times the charater appears
 print(name.replace("b","w"))#replaces a charater with another character in a string
-print(name*3)
+print(name*3)#this prints the string three times
